@@ -5,7 +5,7 @@ Get information of Covid-19 in Vietnam from your terminal.
 ![Preview](./preview.png)
 
 ## Sources
-Get all information from ![The offical website of MOH in Vietnam](https://ncov.moh.gov.vn)
+Get all information from [The offical website of MOH in Vietnam](https://ncov.moh.gov.vn)
 
 ## Install
 ```sh
